@@ -7,10 +7,10 @@ a more refined asthetic.
 
 
 Included below are some screenshots and links to different parts of the repository containing my code:
-
-
-![Screenshot of HTML output.png](https://github.com/talhanaveed753/TICS-HW2/blob/main/Screenshot%20of%20HTML%20output.png) <br>
+<br>
 Here is the output from the HTML script containing the data table output
 
-Files:
+![Screenshot of HTML output.png](https://github.com/talhanaveed753/TICS-HW2/blob/main/Screenshot%20of%20HTML%20output.png) <br>
+
+Files: <br>
 [**index.html**](https://github.com/talhanaveed753/TICS-HW2/blob/main/index.html) - Code for the HTML script
