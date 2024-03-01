@@ -3,7 +3,7 @@
 
 <head>
     <meta charset = "UTF-8">
-    <meta name = "viewport" content = "width=device-width, initial-scale=1.0">
+    <meta name = "viewport" content = "width = device-width, initial-scale = 1.0">
     <title> US Population Data Display </title>
     <style>
         html, body {
@@ -88,7 +88,7 @@
                 .catch(error => {
                     console.error('There was a problem with the fetch operation:', error);
                     const tableBody = document.getElementById('populationTable').getElementsByTagName('tbody')[0];
-                    tableBody.innerHTML = '<tr><td colspan="2">Failed to load data.</td></tr>';
+                    tableBody.innerHTML = '<tr><td colspan = "2">Failed to load data.</td></tr>';
                 });
         }
 
