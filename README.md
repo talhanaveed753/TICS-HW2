@@ -7,3 +7,5 @@ The HTML file includes important elements such as making the table and headers c
 a more refined asthetic.
 
 Included below are some screenshots and links to different parts of the repository containing my code.
+
+[**index.html**](https://github.com/talhanaveed753/TICS-HW2/blob/main/index.html) - Code for the HTML script
